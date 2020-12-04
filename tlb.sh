@@ -1,9 +1,9 @@
 #!/bin/bash
 #	Este script foi desenvolvido por Ronan G. Ramos em 12/2020, e tem como objetivo avaliar
 # 	o desenpenho de uma rede intranet, efetuando testes de transferência de dados entre um
-#	clinte e um servidor, por meio do aplicativo iperf3.
+#	cliente e um servidor, por meio do aplicativo IPERF3.
 #	Para isso é necessário que o IPERF3 esteja instalados nas duas máquinas que irão correr
-#	o teste. Se vocÊ não tiver o IPERF3 instalado, instále-o antes de iniciar o uso deste 
+#	o teste. Se você não tiver o IPERF3 instalado, instále-o antes de iniciar o uso deste 
 #	script.
 #	O uso deste script será de inteira responsabilidade do usuário, não tendo seu desenvolvedor
 #	qualquer responsabilidade por danos que vierem a acontecer em decorrencia de seu uso.
